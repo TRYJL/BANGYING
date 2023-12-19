@@ -1,0 +1,15 @@
+<!--pages/user/user.wxml-->
+
+<scroll-view class="me"
+scroll-x="true">
+  <navigator url="pages/demo/demo"
+  class="demobutton"
+  >
+  demobutton
+  </navigator>
+  <navigator url="pages/logs/logs"
+  open-type="redirect"
+  class="logsbutton">
+  logsbutton
+  </navigator>
+</scroll-view>

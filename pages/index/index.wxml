@@ -1,0 +1,19 @@
+<!--index.wxml-->
+<!-- <navigation-bar title="Weixin" back="{{false}}" color="black" background="#FFF"></navigation-bar> -->
+<!-- <view class="box" 
+hover-class="boxhaver"
+hover-start-time="0">
+hello 2.5
+</view> -->
+<progress percent="99"></progress>
+<scroll-view class="myscroll"
+scroll-x="true">
+</scroll-view>
+
+
+
+
+<!-- <navigator url="/pages/logs/logs" class="logbutton">
+  <image src="/static/log.png" mode="" class="logp"></image>
+</navigator> -->
+
